@@ -50,6 +50,9 @@
 ```
 wget -N https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh && bash install.sh
 ```
+```
+wget -N https://github.com/nezhahd/x-ui-hdd/raw/main/install.sh && bash install.sh
+```
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ### 关于TG通知（上游内容）
